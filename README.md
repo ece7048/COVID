@@ -7,6 +7,7 @@ Install guidance:
 2) cd .
 3) pip instal .
 4) cite the paper(doi:)
+https://doi.org/10.1016/j.compmedimag.2021.102008
 
 P.S. python==3.6.3 is recommnded
 
